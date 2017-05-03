@@ -1,4 +1,4 @@
-### Language Translation
+# Language Translation
 
 ## Introduction
 In this project, you’re going to take a peek into the realm of neural network machine translation. You’ll be training a sequence to sequence model on a dataset of English and French sentences that can translate new sentences from English to French.
@@ -8,6 +8,6 @@ The project files can be found in our public GitHub repo, in the language-transl
 
 git clone https://github.com/udacity/deep-learning.git
 
-## Softeware Required
+## Software Required
 1. Python 3.6
 2. Tensorflow Library
